@@ -1,0 +1,3 @@
+ALGORITHM|A step-by-step procedure for calculations , its also helps in coding
+PSYCHOLOGY|The scientific study of the human mind and behavior 
+

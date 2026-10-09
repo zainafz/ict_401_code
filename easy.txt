@@ -1,0 +1,6 @@
+APPLE|A common red or green fruit which helps us to avoid doctor
+DOG|A common household pet which tale is not straght
+SUN|The source of vitman D at the center of our solar system
+CAT| A mamal and home animal 
+BOOK|An item  for  reading and its used wood for making its parts
+MEN| the living thing which walks on two feets and have gender male
